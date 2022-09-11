@@ -17,3 +17,6 @@ a = [1,2,2,2,4,5,5,6,7,8,8,8,8,8,9]
 print(a)
 
 print(dupe1(a))
+print(dupe2(a))
+
+# way to use the set method I used the official python documentation for that
